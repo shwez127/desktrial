@@ -32,7 +32,7 @@ namespace DeskData.Data
         {
 
 
-           dbContextOptionsBuilder.UseSqlServer("Data Source=DESKTOP-TQ40A7V;Initial Catalog=deskdb501; Integrated Security=true; ");
+           dbContextOptionsBuilder.UseSqlServer("Server=tcp:fyserver127.database.windows.net,1433;Initial Catalog=fydb;Persist Security Info=False;User ID=minion;Password=Gamma@127;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
 
 
         }

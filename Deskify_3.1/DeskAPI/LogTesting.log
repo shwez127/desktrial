@@ -1,0 +1,736 @@
+2023-04-04 14:36:43.021 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-04-04 14:36:43.044 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44385/weatherforecast  
+2023-04-04 14:36:43.061 +05:30 [INF] Hosting environment: Development
+2023-04-04 14:36:43.061 +05:30 [INF] Content root path: C:\Users\shwetha.b\Desktop\tuesdesk\New-Deskify\Deskify_3.1\DeskAPI
+2023-04-04 14:36:43.134 +05:30 [INF] Executing endpoint 'DeskAPI.Controllers.WeatherForecastController.Get (DeskAPI)'
+2023-04-04 14:36:43.161 +05:30 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[DeskAPI.WeatherForecast] Get() on controller DeskAPI.Controllers.WeatherForecastController (DeskAPI).
+2023-04-04 14:36:43.167 +05:30 [INF] Executing ObjectResult, writing value of type 'DeskAPI.WeatherForecast[]'.
+2023-04-04 14:36:43.204 +05:30 [INF] Executed action DeskAPI.Controllers.WeatherForecastController.Get (DeskAPI) in 34.7231ms
+2023-04-04 14:36:43.205 +05:30 [INF] Executed endpoint 'DeskAPI.Controllers.WeatherForecastController.Get (DeskAPI)'
+2023-04-04 14:36:43.215 +05:30 [INF] Request finished in 177.7052ms 200 application/json; charset=utf-8
+2023-04-04 14:36:43.280 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44385/favicon.ico  
+2023-04-04 14:36:43.285 +05:30 [INF] Request finished in 5.2253ms 404 
+2023-04-04 14:36:46.704 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44385/swagger  
+2023-04-04 14:36:46.712 +05:30 [INF] Request finished in 8.2416ms 301 
+2023-04-04 14:36:46.717 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44385/swagger/index.html  
+2023-04-04 14:36:46.874 +05:30 [INF] Request finished in 156.7542ms 200 text/html;charset=utf-8
+2023-04-04 14:36:46.877 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44385/swagger/swagger-ui.css  
+2023-04-04 14:36:46.877 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44385/swagger/swagger-ui-bundle.js  
+2023-04-04 14:36:46.878 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44385/swagger/swagger-ui-standalone-preset.js  
+2023-04-04 14:36:46.878 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44385/_framework/aspnetcore-browser-refresh.js  
+2023-04-04 14:36:46.879 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44385/_vs/browserLink  
+2023-04-04 14:36:46.883 +05:30 [INF] Request finished in 4.8759ms 200 application/javascript; charset=utf-8
+2023-04-04 14:36:46.910 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2023-04-04 14:36:46.910 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2023-04-04 14:36:46.910 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2023-04-04 14:36:46.910 +05:30 [INF] Request finished in 32.1845ms 200 application/javascript
+2023-04-04 14:36:46.910 +05:30 [INF] Request finished in 32.7359ms 200 text/css
+2023-04-04 14:36:46.910 +05:30 [INF] Request finished in 32.6355ms 200 application/javascript
+2023-04-04 14:36:46.967 +05:30 [INF] Request finished in 88.3476ms 200 text/javascript; charset=UTF-8
+2023-04-04 14:36:47.195 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44385/swagger/v1/swagger.json  
+2023-04-04 14:36:47.232 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44385/swagger/favicon-32x32.png  
+2023-04-04 14:36:47.233 +05:30 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2023-04-04 14:36:47.234 +05:30 [INF] Request finished in 1.9152ms 200 image/png
+2023-04-04 14:36:47.317 +05:30 [INF] Request finished in 121.6049ms 200 application/json;charset=utf-8
+2023-04-04 14:37:08.588 +05:30 [INF] Application is shutting down...
+2023-04-04 14:42:37.437 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-04-04 14:42:37.463 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44385/weatherforecast  
+2023-04-04 14:42:37.477 +05:30 [INF] Hosting environment: Development
+2023-04-04 14:42:37.477 +05:30 [INF] Content root path: C:\Users\shwetha.b\Desktop\tuesdesk\New-Deskify\Deskify_3.1\DeskAPI
+2023-04-04 14:42:37.542 +05:30 [INF] Executing endpoint 'DeskAPI.Controllers.WeatherForecastController.Get (DeskAPI)'
+2023-04-04 14:42:37.575 +05:30 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[DeskAPI.WeatherForecast] Get() on controller DeskAPI.Controllers.WeatherForecastController (DeskAPI).
+2023-04-04 14:42:37.580 +05:30 [INF] Executing ObjectResult, writing value of type 'DeskAPI.WeatherForecast[]'.
+2023-04-04 14:42:37.615 +05:30 [INF] Executed action DeskAPI.Controllers.WeatherForecastController.Get (DeskAPI) in 33.122ms
+2023-04-04 14:42:37.617 +05:30 [INF] Executed endpoint 'DeskAPI.Controllers.WeatherForecastController.Get (DeskAPI)'
+2023-04-04 14:42:37.629 +05:30 [INF] Request finished in 170.8162ms 200 application/json; charset=utf-8
+2023-04-04 14:42:41.926 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44385/swagger/index.html  
+2023-04-04 14:42:42.050 +05:30 [INF] Request finished in 125.2437ms 200 text/html;charset=utf-8
+2023-04-04 14:42:42.061 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44385/_framework/aspnetcore-browser-refresh.js  
+2023-04-04 14:42:42.063 +05:30 [INF] Request finished in 1.6541ms 200 application/javascript; charset=utf-8
+2023-04-04 14:42:42.072 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44385/_vs/browserLink  
+2023-04-04 14:42:42.127 +05:30 [INF] Request finished in 55.3182ms 200 text/javascript; charset=UTF-8
+2023-04-04 14:42:42.357 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44385/swagger/v1/swagger.json  
+2023-04-04 14:42:42.496 +05:30 [INF] Request finished in 139.4038ms 200 application/json;charset=utf-8
+2023-04-04 14:44:03.000 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44385/api/LoginTable/AddLogin application/json; charset=utf-8 70
+2023-04-04 14:44:03.002 +05:30 [INF] Executing endpoint 'DeskAPI.Controllers.LoginTableController.AddLogin (DeskAPI)'
+2023-04-04 14:44:03.012 +05:30 [INF] Route matched with {action = "AddLogin", controller = "LoginTable"}. Executing controller action with signature Int32 AddLogin(DeskEntity.Model.LoginTable) on controller DeskAPI.Controllers.LoginTableController (DeskAPI).
+2023-04-04 14:44:03.798 +05:30 [INF] Entity Framework Core 5.0.0 initialized 'DeskDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2023-04-04 14:44:14.195 +05:30 [ERR] An error occurred using the connection to database 'deskdb501' on server 'DESKTOP-99Q7A4T'.
+2023-04-04 14:44:14.239 +05:30 [ERR] An exception occurred in the database while saving changes for context type 'DeskData.Data.DeskDbContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot open database "deskdb501" requested by the login. The login failed.
+Login failed for user 'VALTECH-COM\shwetha.b'.
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.BeginTransaction(IsolationLevel isolationLevel)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.BeginTransaction()
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+ClientConnectionId:464902d5-99e8-4fc6-ae1b-026fa8adf5de
+Error Number:4060,State:1,Class:11
+Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot open database "deskdb501" requested by the login. The login failed.
+Login failed for user 'VALTECH-COM\shwetha.b'.
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.BeginTransaction(IsolationLevel isolationLevel)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.BeginTransaction()
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+ClientConnectionId:464902d5-99e8-4fc6-ae1b-026fa8adf5de
+Error Number:4060,State:1,Class:11
+2023-04-04 14:44:14.241 +05:30 [INF] Executed action DeskAPI.Controllers.LoginTableController.AddLogin (DeskAPI) in 11228.789ms
+2023-04-04 14:44:14.242 +05:30 [INF] Executed endpoint 'DeskAPI.Controllers.LoginTableController.AddLogin (DeskAPI)'
+2023-04-04 14:44:14.245 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot open database "deskdb501" requested by the login. The login failed.
+Login failed for user 'VALTECH-COM\shwetha.b'.
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.BeginTransaction(IsolationLevel isolationLevel)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.BeginTransaction()
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at DeskData.Repository.LoginTableRepository.AddLoginTable(LoginTable loginTable) in C:\Users\shwetha.b\Desktop\tuesdesk\New-Deskify\Deskify_3.1\DeskData\Repository\LoginTableRepository.cs:line 23
+   at DeskBusiness.Services.LoginTableService.AddLogin(LoginTable login) in C:\Users\shwetha.b\Desktop\tuesdesk\New-Deskify\Deskify_3.1\DeskBusiness\Services\LoginTableService.cs:line 23
+   at DeskAPI.Controllers.LoginTableController.AddLogin(LoginTable loginTable) in C:\Users\shwetha.b\Desktop\tuesdesk\New-Deskify\Deskify_3.1\DeskAPI\Controllers\LoginTableController.cs:line 58
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ClientConnectionId:464902d5-99e8-4fc6-ae1b-026fa8adf5de
+Error Number:4060,State:1,Class:11
+2023-04-04 14:44:14.296 +05:30 [INF] Request finished in 11297.2191ms 500 text/plain
+2023-04-04 14:44:14.327 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44385/api/Employee/AddEmployee application/json; charset=utf-8 181
+2023-04-04 14:44:14.332 +05:30 [INF] Executing endpoint 'DeskAPI.Controllers.EmployeeController.AddEmployee (DeskAPI)'
+2023-04-04 14:44:14.336 +05:30 [INF] Route matched with {action = "AddEmployee", controller = "Employee"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddEmployee(DeskEntity.Model.Employee) on controller DeskAPI.Controllers.EmployeeController (DeskAPI).
+2023-04-04 14:44:14.376 +05:30 [INF] Entity Framework Core 5.0.0 initialized 'DeskDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2023-04-04 14:44:14.408 +05:30 [ERR] An exception occurred in the database while saving changes for context type 'DeskData.Data.DeskDbContext'.
+System.InvalidOperationException: The value of 'Employee.EmployeeID' is unknown when attempting to save changes. This is because the property is also part of a foreign key for which the principal entity in the relationship is not known.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.PrepareToSave()
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.GetEntriesToSave(Boolean cascadeChanges)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+System.InvalidOperationException: The value of 'Employee.EmployeeID' is unknown when attempting to save changes. This is because the property is also part of a foreign key for which the principal entity in the relationship is not known.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.PrepareToSave()
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.GetEntriesToSave(Boolean cascadeChanges)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+2023-04-04 14:44:14.409 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Int32'.
+2023-04-04 14:44:14.410 +05:30 [INF] Executed action DeskAPI.Controllers.EmployeeController.AddEmployee (DeskAPI) in 73.5724ms
+2023-04-04 14:44:14.410 +05:30 [INF] Executed endpoint 'DeskAPI.Controllers.EmployeeController.AddEmployee (DeskAPI)'
+2023-04-04 14:44:14.410 +05:30 [INF] Request finished in 82.9161ms 400 application/json; charset=utf-8
+2023-04-04 14:44:26.931 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44385/api/LoginTable/Login application/json; charset=utf-8 70
+2023-04-04 14:44:26.933 +05:30 [INF] Executing endpoint 'DeskAPI.Controllers.LoginTableController.Login (DeskAPI)'
+2023-04-04 14:44:26.937 +05:30 [INF] Route matched with {action = "Login", controller = "LoginTable"}. Executing controller action with signature Int32[] Login(DeskEntity.Model.LoginTable) on controller DeskAPI.Controllers.LoginTableController (DeskAPI).
+2023-04-04 14:44:26.952 +05:30 [INF] Entity Framework Core 5.0.0 initialized 'DeskDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2023-04-04 14:44:37.219 +05:30 [ERR] An error occurred using the connection to database 'deskdb501' on server 'DESKTOP-99Q7A4T'.
+2023-04-04 14:44:37.232 +05:30 [ERR] An exception occurred while iterating over the results of a query for context type 'DeskData.Data.DeskDbContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot open database "deskdb501" requested by the login. The login failed.
+Login failed for user 'VALTECH-COM\shwetha.b'.
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:bf175ac0-5df8-4a05-a408-7ee7b09cbfd5
+Error Number:4060,State:1,Class:11
+Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot open database "deskdb501" requested by the login. The login failed.
+Login failed for user 'VALTECH-COM\shwetha.b'.
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:bf175ac0-5df8-4a05-a408-7ee7b09cbfd5
+Error Number:4060,State:1,Class:11
+2023-04-04 14:44:37.235 +05:30 [INF] Executed action DeskAPI.Controllers.LoginTableController.Login (DeskAPI) in 10297.5985ms
+2023-04-04 14:44:37.235 +05:30 [INF] Executed endpoint 'DeskAPI.Controllers.LoginTableController.Login (DeskAPI)'
+2023-04-04 14:44:37.236 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot open database "deskdb501" requested by the login. The login failed.
+Login failed for user 'VALTECH-COM\shwetha.b'.
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at DeskData.Repository.LoginTableRepository.Login(LoginTable loginTable) in C:\Users\shwetha.b\Desktop\tuesdesk\New-Deskify\Deskify_3.1\DeskData\Repository\LoginTableRepository.cs:line 35
+   at DeskBusiness.Services.LoginTableService.Login(LoginTable loginTable) in C:\Users\shwetha.b\Desktop\tuesdesk\New-Deskify\Deskify_3.1\DeskBusiness\Services\LoginTableService.cs:line 19
+   at DeskAPI.Controllers.LoginTableController.Login(LoginTable loginTable) in C:\Users\shwetha.b\Desktop\tuesdesk\New-Deskify\Deskify_3.1\DeskAPI\Controllers\LoginTableController.cs:line 30
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ClientConnectionId:bf175ac0-5df8-4a05-a408-7ee7b09cbfd5
+Error Number:4060,State:1,Class:11
+2023-04-04 14:44:37.243 +05:30 [INF] Request finished in 10311.9622ms 500 text/plain
+2023-04-04 14:46:31.761 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-04-04 14:46:31.796 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44385/swagger/index.html  
+2023-04-04 14:46:31.820 +05:30 [INF] Hosting environment: Development
+2023-04-04 14:46:31.820 +05:30 [INF] Content root path: C:\Users\shwetha.b\Desktop\tuesdesk\New-Deskify\Deskify_3.1\DeskAPI
+2023-04-04 14:46:32.107 +05:30 [INF] Request finished in 318.7634ms 200 text/html;charset=utf-8
+2023-04-04 14:46:32.294 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44385/_vs/browserLink  
+2023-04-04 14:46:32.298 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44385/_framework/aspnetcore-browser-refresh.js  
+2023-04-04 14:46:32.303 +05:30 [INF] Request finished in 4.3819ms 200 application/javascript; charset=utf-8
+2023-04-04 14:46:32.323 +05:30 [INF] Request finished in 29.669ms 200 text/javascript; charset=UTF-8
+2023-04-04 14:46:32.697 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44385/swagger/v1/swagger.json  
+2023-04-04 14:46:32.865 +05:30 [INF] Request finished in 167.0092ms 200 application/json;charset=utf-8
+2023-04-04 14:47:08.813 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-04-04 14:47:08.839 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44385/swagger/index.html  
+2023-04-04 14:47:08.858 +05:30 [INF] Hosting environment: Development
+2023-04-04 14:47:08.858 +05:30 [INF] Content root path: C:\Users\shwetha.b\Desktop\tuesdesk\New-Deskify\Deskify_3.1\DeskAPI
+2023-04-04 14:47:09.912 +05:30 [INF] Request finished in 1078.2939ms 200 text/html;charset=utf-8
+2023-04-04 14:47:09.974 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44385/_vs/browserLink  
+2023-04-04 14:47:09.982 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44385/_framework/aspnetcore-browser-refresh.js  
+2023-04-04 14:47:09.987 +05:30 [INF] Request finished in 5.7291ms 200 application/javascript; charset=utf-8
+2023-04-04 14:47:09.998 +05:30 [INF] Request finished in 24.6304ms 200 text/javascript; charset=UTF-8
+2023-04-04 14:47:10.782 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44385/swagger/v1/swagger.json  
+2023-04-04 14:47:10.883 +05:30 [INF] Request finished in 101.2458ms 200 application/json;charset=utf-8
+2023-04-04 14:47:28.978 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-04-04 14:47:29.063 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44385/swagger/index.html  
+2023-04-04 14:47:29.117 +05:30 [INF] Hosting environment: Development
+2023-04-04 14:47:29.117 +05:30 [INF] Content root path: C:\Users\shwetha.b\Desktop\tuesdesk\New-Deskify\Deskify_3.1\DeskAPI
+2023-04-04 14:47:29.413 +05:30 [INF] Request finished in 363.6095ms 200 text/html;charset=utf-8
+2023-04-04 14:47:29.423 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44385/_vs/browserLink  
+2023-04-04 14:47:29.427 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44385/_framework/aspnetcore-browser-refresh.js  
+2023-04-04 14:47:29.432 +05:30 [INF] Request finished in 4.4204ms 200 application/javascript; charset=utf-8
+2023-04-04 14:47:29.443 +05:30 [INF] Request finished in 19.7289ms 200 text/javascript; charset=UTF-8
+2023-04-04 14:47:29.645 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44385/swagger/v1/swagger.json  
+2023-04-04 14:47:29.788 +05:30 [INF] Request finished in 143.8529ms 200 application/json;charset=utf-8
+2023-04-04 14:48:21.172 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-04-04 14:48:21.201 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44385/weatherforecast  
+2023-04-04 14:48:21.216 +05:30 [INF] Hosting environment: Development
+2023-04-04 14:48:21.217 +05:30 [INF] Content root path: C:\Users\shwetha.b\Desktop\tuesdesk\New-Deskify\Deskify_3.1\DeskAPI
+2023-04-04 14:48:21.285 +05:30 [INF] Executing endpoint 'DeskAPI.Controllers.WeatherForecastController.Get (DeskAPI)'
+2023-04-04 14:48:21.322 +05:30 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[DeskAPI.WeatherForecast] Get() on controller DeskAPI.Controllers.WeatherForecastController (DeskAPI).
+2023-04-04 14:48:21.328 +05:30 [INF] Executing ObjectResult, writing value of type 'DeskAPI.WeatherForecast[]'.
+2023-04-04 14:48:21.362 +05:30 [INF] Executed action DeskAPI.Controllers.WeatherForecastController.Get (DeskAPI) in 30.076ms
+2023-04-04 14:48:21.366 +05:30 [INF] Executed endpoint 'DeskAPI.Controllers.WeatherForecastController.Get (DeskAPI)'
+2023-04-04 14:48:21.375 +05:30 [INF] Request finished in 183.543ms 200 application/json; charset=utf-8
+2023-04-04 14:48:26.919 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44385/swagger/index.html  
+2023-04-04 14:48:27.051 +05:30 [INF] Request finished in 133.1274ms 200 text/html;charset=utf-8
+2023-04-04 14:48:27.060 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44385/_framework/aspnetcore-browser-refresh.js  
+2023-04-04 14:48:27.063 +05:30 [INF] Request finished in 2.912ms 200 application/javascript; charset=utf-8
+2023-04-04 14:48:27.090 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44385/_vs/browserLink  
+2023-04-04 14:48:27.118 +05:30 [INF] Request finished in 29.222ms 200 text/javascript; charset=UTF-8
+2023-04-04 14:48:27.210 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44385/swagger/v1/swagger.json  
+2023-04-04 14:48:27.335 +05:30 [INF] Request finished in 124.6497ms 200 application/json;charset=utf-8
+2023-04-04 14:49:15.712 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44385/api/LoginTable/Login application/json; charset=utf-8 70
+2023-04-04 14:49:15.714 +05:30 [INF] Executing endpoint 'DeskAPI.Controllers.LoginTableController.Login (DeskAPI)'
+2023-04-04 14:49:15.724 +05:30 [INF] Route matched with {action = "Login", controller = "LoginTable"}. Executing controller action with signature Int32[] Login(DeskEntity.Model.LoginTable) on controller DeskAPI.Controllers.LoginTableController (DeskAPI).
+2023-04-04 14:49:16.519 +05:30 [INF] Entity Framework Core 5.0.0 initialized 'DeskDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2023-04-04 14:49:17.048 +05:30 [INF] Executed DbCommand (21ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [l].[ID], [l].[Email], [l].[Password], [l].[Type]
+FROM [LoginTables] AS [l]
+2023-04-04 14:49:17.070 +05:30 [INF] Executing ObjectResult, writing value of type 'null'.
+2023-04-04 14:49:17.071 +05:30 [INF] Executed action DeskAPI.Controllers.LoginTableController.Login (DeskAPI) in 1346.858ms
+2023-04-04 14:49:17.071 +05:30 [INF] Executed endpoint 'DeskAPI.Controllers.LoginTableController.Login (DeskAPI)'
+2023-04-04 14:49:17.074 +05:30 [INF] Request finished in 1363.1016ms 204 
+2023-04-04 14:49:43.805 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44385/api/LoginTable/AddLogin application/json; charset=utf-8 70
+2023-04-04 14:49:43.809 +05:30 [INF] Executing endpoint 'DeskAPI.Controllers.LoginTableController.AddLogin (DeskAPI)'
+2023-04-04 14:49:43.817 +05:30 [INF] Route matched with {action = "AddLogin", controller = "LoginTable"}. Executing controller action with signature Int32 AddLogin(DeskEntity.Model.LoginTable) on controller DeskAPI.Controllers.LoginTableController (DeskAPI).
+2023-04-04 14:49:43.851 +05:30 [INF] Entity Framework Core 5.0.0 initialized 'DeskDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2023-04-04 14:49:44.020 +05:30 [INF] Executed DbCommand (22ms) [Parameters=[@p0='?' (Size = 30) (DbType = AnsiString), @p1='?' (Size = 20) (DbType = AnsiString), @p2='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [LoginTables] ([Email], [Password], [Type])
+VALUES (@p0, @p1, @p2);
+SELECT [ID]
+FROM [LoginTables]
+WHERE @@ROWCOUNT = 1 AND [ID] = scope_identity();
+2023-04-04 14:49:44.050 +05:30 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [l].[ID], [l].[Email], [l].[Password], [l].[Type]
+FROM [LoginTables] AS [l]
+2023-04-04 14:49:44.051 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Int32'.
+2023-04-04 14:49:44.052 +05:30 [INF] Executed action DeskAPI.Controllers.LoginTableController.AddLogin (DeskAPI) in 234.2061ms
+2023-04-04 14:49:44.052 +05:30 [INF] Executed endpoint 'DeskAPI.Controllers.LoginTableController.AddLogin (DeskAPI)'
+2023-04-04 14:49:44.052 +05:30 [INF] Request finished in 247.6158ms 200 application/json; charset=utf-8
+2023-04-04 14:49:44.156 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44385/api/Employee/AddEmployee application/json; charset=utf-8 181
+2023-04-04 14:49:44.157 +05:30 [INF] Executing endpoint 'DeskAPI.Controllers.EmployeeController.AddEmployee (DeskAPI)'
+2023-04-04 14:49:44.158 +05:30 [INF] Route matched with {action = "AddEmployee", controller = "Employee"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddEmployee(DeskEntity.Model.Employee) on controller DeskAPI.Controllers.EmployeeController (DeskAPI).
+2023-04-04 14:49:44.172 +05:30 [INF] Entity Framework Core 5.0.0 initialized 'DeskDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2023-04-04 14:49:44.204 +05:30 [INF] Executed DbCommand (3ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (Size = 4000), @p2='?' (DbType = Int32), @p3='?' (Size = 1) (DbType = AnsiStringFixedLength), @p4='?' (Size = 8000) (DbType = Binary), @p5='?' (Size = 12), @p6='?' (Size = 4000), @p7='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [employees] ([EmployeeID], [EmployeeName], [EmployeeNumber], [Gender], [Image], [PhoneNumber], [Role], [SecurityQuestion])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7);
+2023-04-04 14:49:44.205 +05:30 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2023-04-04 14:49:44.205 +05:30 [INF] Executed action DeskAPI.Controllers.EmployeeController.AddEmployee (DeskAPI) in 46.8569ms
+2023-04-04 14:49:44.205 +05:30 [INF] Executed endpoint 'DeskAPI.Controllers.EmployeeController.AddEmployee (DeskAPI)'
+2023-04-04 14:49:44.205 +05:30 [INF] Request finished in 49.1388ms 200 text/plain; charset=utf-8
+2023-04-04 14:49:56.926 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44385/api/LoginTable/Login application/json; charset=utf-8 70
+2023-04-04 14:49:56.927 +05:30 [INF] Executing endpoint 'DeskAPI.Controllers.LoginTableController.Login (DeskAPI)'
+2023-04-04 14:49:56.927 +05:30 [INF] Route matched with {action = "Login", controller = "LoginTable"}. Executing controller action with signature Int32[] Login(DeskEntity.Model.LoginTable) on controller DeskAPI.Controllers.LoginTableController (DeskAPI).
+2023-04-04 14:49:56.933 +05:30 [INF] Entity Framework Core 5.0.0 initialized 'DeskDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2023-04-04 14:49:56.935 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [l].[ID], [l].[Email], [l].[Password], [l].[Type]
+FROM [LoginTables] AS [l]
+2023-04-04 14:49:56.938 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Int32[]'.
+2023-04-04 14:49:56.938 +05:30 [INF] Executed action DeskAPI.Controllers.LoginTableController.Login (DeskAPI) in 10.7588ms
+2023-04-04 14:49:56.939 +05:30 [INF] Executed endpoint 'DeskAPI.Controllers.LoginTableController.Login (DeskAPI)'
+2023-04-04 14:49:56.939 +05:30 [INF] Request finished in 13.2452ms 200 application/json; charset=utf-8
+2023-04-04 14:50:02.573 +05:30 [INF] Request starting HTTP/1.1 GET https://localhost:44385/api/Employee/GetEmployeeById?employeeId=1  
+2023-04-04 14:50:02.582 +05:30 [INF] Executing endpoint 'DeskAPI.Controllers.EmployeeController.GetEmployeeById (DeskAPI)'
+2023-04-04 14:50:02.588 +05:30 [INF] Route matched with {action = "GetEmployeeById", controller = "Employee"}. Executing controller action with signature DeskEntity.Model.Employee GetEmployeeById(Int32) on controller DeskAPI.Controllers.EmployeeController (DeskAPI).
+2023-04-04 14:50:02.597 +05:30 [INF] Entity Framework Core 5.0.0 initialized 'DeskDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2023-04-04 14:50:02.691 +05:30 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [e].[EmployeeID], [e].[EmployeeName], [e].[EmployeeNumber], [e].[Gender], [e].[Image], [e].[PhoneNumber], [e].[Role], [e].[SecurityQuestion], [l].[ID], [l].[Email], [l].[Password], [l].[Type]
+FROM [employees] AS [e]
+INNER JOIN [LoginTables] AS [l] ON [e].[EmployeeID] = [l].[ID]
+2023-04-04 14:50:02.698 +05:30 [INF] Executing ObjectResult, writing value of type 'DeskEntity.Model.Employee'.
+2023-04-04 14:50:02.701 +05:30 [INF] Executed action DeskAPI.Controllers.EmployeeController.GetEmployeeById (DeskAPI) in 113.5812ms
+2023-04-04 14:50:02.702 +05:30 [INF] Executed endpoint 'DeskAPI.Controllers.EmployeeController.GetEmployeeById (DeskAPI)'
+2023-04-04 14:50:02.702 +05:30 [INF] Request finished in 129.0128ms 200 application/json; charset=utf-8
+2023-04-04 14:50:06.421 +05:30 [INF] Request starting HTTP/1.1 GET https://localhost:44385/api/Employee/GetEmployeeById?employeeId=5  
+2023-04-04 14:50:06.422 +05:30 [INF] Executing endpoint 'DeskAPI.Controllers.EmployeeController.GetEmployeeById (DeskAPI)'
+2023-04-04 14:50:06.423 +05:30 [INF] Route matched with {action = "GetEmployeeById", controller = "Employee"}. Executing controller action with signature DeskEntity.Model.Employee GetEmployeeById(Int32) on controller DeskAPI.Controllers.EmployeeController (DeskAPI).
+2023-04-04 14:50:06.425 +05:30 [INF] Entity Framework Core 5.0.0 initialized 'DeskDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2023-04-04 14:50:06.431 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [e].[EmployeeID], [e].[EmployeeName], [e].[EmployeeNumber], [e].[Gender], [e].[Image], [e].[PhoneNumber], [e].[Role], [e].[SecurityQuestion], [l].[ID], [l].[Email], [l].[Password], [l].[Type]
+FROM [employees] AS [e]
+INNER JOIN [LoginTables] AS [l] ON [e].[EmployeeID] = [l].[ID]
+2023-04-04 14:50:06.432 +05:30 [INF] Executing ObjectResult, writing value of type 'null'.
+2023-04-04 14:50:06.432 +05:30 [INF] Executed action DeskAPI.Controllers.EmployeeController.GetEmployeeById (DeskAPI) in 9.5018ms
+2023-04-04 14:50:06.432 +05:30 [INF] Executed endpoint 'DeskAPI.Controllers.EmployeeController.GetEmployeeById (DeskAPI)'
+2023-04-04 14:50:06.433 +05:30 [INF] Request finished in 11.8923ms 204 
+2023-04-04 14:50:08.892 +05:30 [INF] Request starting HTTP/1.1 GET https://localhost:44385/api/Floor/GetFloor  
+2023-04-04 14:50:08.893 +05:30 [INF] Executing endpoint 'DeskAPI.Controllers.FloorController.GetFloor (DeskAPI)'
+2023-04-04 14:50:08.898 +05:30 [INF] Route matched with {action = "GetFloor", controller = "Floor"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[DeskEntity.Model.Floor] GetFloor() on controller DeskAPI.Controllers.FloorController (DeskAPI).
+2023-04-04 14:50:08.901 +05:30 [INF] Entity Framework Core 5.0.0 initialized 'DeskDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2023-04-04 14:50:08.919 +05:30 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [f].[FloorId], [f].[FloorName]
+FROM [floors] AS [f]
+2023-04-04 14:50:08.920 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[DeskEntity.Model.Floor, DeskEntity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-04-04 14:50:08.922 +05:30 [INF] Executed action DeskAPI.Controllers.FloorController.GetFloor (DeskAPI) in 23.8262ms
+2023-04-04 14:50:08.923 +05:30 [INF] Executed endpoint 'DeskAPI.Controllers.FloorController.GetFloor (DeskAPI)'
+2023-04-04 14:50:08.923 +05:30 [INF] Request finished in 31.0275ms 200 application/json; charset=utf-8
+2023-04-04 14:50:25.365 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44385/api/BookingSeat/AddSeatBooking application/json; charset=utf-8 267
+2023-04-04 14:50:25.366 +05:30 [INF] Executing endpoint 'DeskAPI.Controllers.BookingSeatController.AddSeatBooking (DeskAPI)'
+2023-04-04 14:50:25.367 +05:30 [INF] Route matched with {action = "AddSeatBooking", controller = "BookingSeat"}. Executing controller action with signature Int32 AddSeatBooking(DeskEntity.Model.BookingSeat) on controller DeskAPI.Controllers.BookingSeatController (DeskAPI).
+2023-04-04 14:50:25.376 +05:30 [INF] Entity Framework Core 5.0.0 initialized 'DeskDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2023-04-04 14:50:25.430 +05:30 [ERR] Failed executing DbCommand (16ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (DbType = DateTime2), @p2='?' (DbType = Int32), @p3='?' (Size = 4000), @p4='?' (DbType = Int32), @p5='?' (DbType = DateTime2), @p6='?' (DbType = DateTime2), @p7='?' (DbType = DateTime2), @p8='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [bookingSeats] ([EmployeeID], [FromDate], [SeatId], [SeatShiftTime], [SeatStatus], [ShiftEnd], [ShiftStart], [ToDate], [bookingrequesttype])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8);
+SELECT [BookingSeatId]
+FROM [bookingSeats]
+WHERE @@ROWCOUNT = 1 AND [BookingSeatId] = scope_identity();
+2023-04-04 14:50:25.483 +05:30 [ERR] An exception occurred in the database while saving changes for context type 'DeskData.Data.DeskDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the FOREIGN KEY constraint "FK_bookingSeats_seats_SeatId". The conflict occurred in database "deskdb501", table "dbo.seats", column 'SeatId'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:6e7b0243-6b8a-4346-bb53-8a5be51001f2
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the FOREIGN KEY constraint "FK_bookingSeats_seats_SeatId". The conflict occurred in database "deskdb501", table "dbo.seats", column 'SeatId'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:6e7b0243-6b8a-4346-bb53-8a5be51001f2
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+2023-04-04 14:50:25.485 +05:30 [INF] Executed action DeskAPI.Controllers.BookingSeatController.AddSeatBooking (DeskAPI) in 117.6175ms
+2023-04-04 14:50:25.486 +05:30 [INF] Executed endpoint 'DeskAPI.Controllers.BookingSeatController.AddSeatBooking (DeskAPI)'
+2023-04-04 14:50:25.491 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the FOREIGN KEY constraint "FK_bookingSeats_seats_SeatId". The conflict occurred in database "deskdb501", table "dbo.seats", column 'SeatId'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:6e7b0243-6b8a-4346-bb53-8a5be51001f2
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at DeskData.Repository.BookingSeatRepository.AddSeatBooking(BookingSeat bookseat) in C:\Users\shwetha.b\Desktop\tuesdesk\New-Deskify\Deskify_3.1\DeskData\Repository\BookingSeatRepository.cs:line 22
+   at DeskBusiness.Services.BookingSeatService.AddSeatBooking(BookingSeat bookseat) in C:\Users\shwetha.b\Desktop\tuesdesk\New-Deskify\Deskify_3.1\DeskBusiness\Services\BookingSeatService.cs:line 20
+   at DeskAPI.Controllers.BookingSeatController.AddSeatBooking(BookingSeat bookseat) in C:\Users\shwetha.b\Desktop\tuesdesk\New-Deskify\Deskify_3.1\DeskAPI\Controllers\BookingSeatController.cs:line 25
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2023-04-04 14:50:25.531 +05:30 [INF] Request finished in 166.3915ms 500 text/plain
+2023-04-04 14:50:25.564 +05:30 [INF] Request starting HTTP/1.1 GET https://localhost:44385/api/Seat/GetAllSeatsByFloorId?floorId=0  
+2023-04-04 14:50:25.564 +05:30 [INF] Executing endpoint 'DeskAPI.Controllers.SeatController.GetAllSeatsFloorId (DeskAPI)'
+2023-04-04 14:50:25.566 +05:30 [INF] Route matched with {action = "GetAllSeatsFloorId", controller = "Seat"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[DeskEntity.Model.Seat] GetAllSeatsFloorId(Int32) on controller DeskAPI.Controllers.SeatController (DeskAPI).
+2023-04-04 14:50:25.567 +05:30 [INF] Entity Framework Core 5.0.0 initialized 'DeskDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2023-04-04 14:50:25.572 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[SeatId], [s].[FloorId], [s].[SeatNumber], [s].[Status]
+FROM [seats] AS [s]
+2023-04-04 14:50:25.572 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[DeskEntity.Model.Seat, DeskEntity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-04-04 14:50:25.573 +05:30 [INF] Executed action DeskAPI.Controllers.SeatController.GetAllSeatsFloorId (DeskAPI) in 6.7547ms
+2023-04-04 14:50:25.573 +05:30 [INF] Executed endpoint 'DeskAPI.Controllers.SeatController.GetAllSeatsFloorId (DeskAPI)'
+2023-04-04 14:50:25.573 +05:30 [INF] Request finished in 8.6839ms 200 application/json; charset=utf-8
+2023-04-04 14:50:31.643 +05:30 [INF] Request starting HTTP/1.1 GET https://localhost:44385/api/Seat/GetAllSeatsByFloorId?floorId=0  
+2023-04-04 14:50:31.646 +05:30 [INF] Executing endpoint 'DeskAPI.Controllers.SeatController.GetAllSeatsFloorId (DeskAPI)'
+2023-04-04 14:50:31.646 +05:30 [INF] Route matched with {action = "GetAllSeatsFloorId", controller = "Seat"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[DeskEntity.Model.Seat] GetAllSeatsFloorId(Int32) on controller DeskAPI.Controllers.SeatController (DeskAPI).
+2023-04-04 14:50:31.649 +05:30 [INF] Entity Framework Core 5.0.0 initialized 'DeskDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2023-04-04 14:50:31.650 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[SeatId], [s].[FloorId], [s].[SeatNumber], [s].[Status]
+FROM [seats] AS [s]
+2023-04-04 14:50:31.651 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[DeskEntity.Model.Seat, DeskEntity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-04-04 14:50:31.652 +05:30 [INF] Executed action DeskAPI.Controllers.SeatController.GetAllSeatsFloorId (DeskAPI) in 5.5244ms
+2023-04-04 14:50:31.652 +05:30 [INF] Executed endpoint 'DeskAPI.Controllers.SeatController.GetAllSeatsFloorId (DeskAPI)'
+2023-04-04 14:50:31.653 +05:30 [INF] Request finished in 9.7253ms 200 application/json; charset=utf-8
+2023-04-04 14:50:33.498 +05:30 [INF] Request starting HTTP/1.1 GET https://localhost:44385/api/Floor/GetFloor  
+2023-04-04 14:50:33.501 +05:30 [INF] Executing endpoint 'DeskAPI.Controllers.FloorController.GetFloor (DeskAPI)'
+2023-04-04 14:50:33.501 +05:30 [INF] Route matched with {action = "GetFloor", controller = "Floor"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[DeskEntity.Model.Floor] GetFloor() on controller DeskAPI.Controllers.FloorController (DeskAPI).
+2023-04-04 14:50:33.503 +05:30 [INF] Entity Framework Core 5.0.0 initialized 'DeskDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2023-04-04 14:50:33.505 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [f].[FloorId], [f].[FloorName]
+FROM [floors] AS [f]
+2023-04-04 14:50:33.506 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[DeskEntity.Model.Floor, DeskEntity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-04-04 14:50:33.507 +05:30 [INF] Executed action DeskAPI.Controllers.FloorController.GetFloor (DeskAPI) in 5.2114ms
+2023-04-04 14:50:33.507 +05:30 [INF] Executed endpoint 'DeskAPI.Controllers.FloorController.GetFloor (DeskAPI)'
+2023-04-04 14:50:33.507 +05:30 [INF] Request finished in 9.3429ms 200 application/json; charset=utf-8
+2023-04-04 14:50:34.965 +05:30 [INF] Request starting HTTP/1.1 GET https://localhost:44385/api/Floor/GetFloor  
+2023-04-04 14:50:34.966 +05:30 [INF] Executing endpoint 'DeskAPI.Controllers.FloorController.GetFloor (DeskAPI)'
+2023-04-04 14:50:34.966 +05:30 [INF] Route matched with {action = "GetFloor", controller = "Floor"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[DeskEntity.Model.Floor] GetFloor() on controller DeskAPI.Controllers.FloorController (DeskAPI).
+2023-04-04 14:50:34.967 +05:30 [INF] Entity Framework Core 5.0.0 initialized 'DeskDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2023-04-04 14:50:34.968 +05:30 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [f].[FloorId], [f].[FloorName]
+FROM [floors] AS [f]
+2023-04-04 14:50:34.969 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[DeskEntity.Model.Floor, DeskEntity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-04-04 14:50:34.969 +05:30 [INF] Executed action DeskAPI.Controllers.FloorController.GetFloor (DeskAPI) in 2.6616ms
+2023-04-04 14:50:34.969 +05:30 [INF] Executed endpoint 'DeskAPI.Controllers.FloorController.GetFloor (DeskAPI)'
+2023-04-04 14:50:34.969 +05:30 [INF] Request finished in 4.1124ms 200 application/json; charset=utf-8
+2023-04-04 14:50:36.487 +05:30 [INF] Request starting HTTP/1.1 GET https://localhost:44385/api/BookingSeat/GetSeatBookingById?bookingseatId=0  
+2023-04-04 14:50:36.489 +05:30 [INF] Executing endpoint 'DeskAPI.Controllers.BookingSeatController.GetSeatBookingById (DeskAPI)'
+2023-04-04 14:50:36.492 +05:30 [INF] Route matched with {action = "GetSeatBookingById", controller = "BookingSeat"}. Executing controller action with signature DeskEntity.Model.BookingSeat GetSeatBookingById(Int32) on controller DeskAPI.Controllers.BookingSeatController (DeskAPI).
+2023-04-04 14:50:36.494 +05:30 [INF] Entity Framework Core 5.0.0 initialized 'DeskDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2023-04-04 14:50:36.510 +05:30 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [b].[BookingSeatId], [b].[EmployeeID], [b].[FromDate], [b].[SeatId], [b].[SeatShiftTime], [b].[SeatStatus], [b].[ShiftEnd], [b].[ShiftStart], [b].[ToDate], [b].[bookingrequesttype], [e].[EmployeeID], [e].[EmployeeName], [e].[EmployeeNumber], [e].[Gender], [e].[Image], [e].[PhoneNumber], [e].[Role], [e].[SecurityQuestion], [s].[SeatId], [s].[FloorId], [s].[SeatNumber], [s].[Status]
+FROM [bookingSeats] AS [b]
+INNER JOIN [employees] AS [e] ON [b].[EmployeeID] = [e].[EmployeeID]
+INNER JOIN [seats] AS [s] ON [b].[SeatId] = [s].[SeatId]
+2023-04-04 14:50:36.511 +05:30 [INF] Executing ObjectResult, writing value of type 'null'.
+2023-04-04 14:50:36.511 +05:30 [INF] Executed action DeskAPI.Controllers.BookingSeatController.GetSeatBookingById (DeskAPI) in 18.4844ms
+2023-04-04 14:50:36.511 +05:30 [INF] Executed endpoint 'DeskAPI.Controllers.BookingSeatController.GetSeatBookingById (DeskAPI)'
+2023-04-04 14:50:36.511 +05:30 [INF] Request finished in 24.2602ms 204 
+2023-04-04 14:52:06.162 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44385/api/LoginTable/Login application/json; charset=utf-8 70
+2023-04-04 14:52:06.163 +05:30 [INF] Executing endpoint 'DeskAPI.Controllers.LoginTableController.Login (DeskAPI)'
+2023-04-04 14:52:06.163 +05:30 [INF] Route matched with {action = "Login", controller = "LoginTable"}. Executing controller action with signature Int32[] Login(DeskEntity.Model.LoginTable) on controller DeskAPI.Controllers.LoginTableController (DeskAPI).
+2023-04-04 14:52:06.166 +05:30 [INF] Entity Framework Core 5.0.0 initialized 'DeskDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2023-04-04 14:52:06.168 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [l].[ID], [l].[Email], [l].[Password], [l].[Type]
+FROM [LoginTables] AS [l]
+2023-04-04 14:52:06.169 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Int32[]'.
+2023-04-04 14:52:06.170 +05:30 [INF] Executed action DeskAPI.Controllers.LoginTableController.Login (DeskAPI) in 6.1546ms
+2023-04-04 14:52:06.170 +05:30 [INF] Executed endpoint 'DeskAPI.Controllers.LoginTableController.Login (DeskAPI)'
+2023-04-04 14:52:06.170 +05:30 [INF] Request finished in 7.4979ms 200 application/json; charset=utf-8
+2023-04-04 14:52:08.289 +05:30 [INF] Request starting HTTP/1.1 GET https://localhost:44385/api/Employee/GetEmployeeById?employeeId=1  
+2023-04-04 14:52:08.289 +05:30 [INF] Executing endpoint 'DeskAPI.Controllers.EmployeeController.GetEmployeeById (DeskAPI)'
+2023-04-04 14:52:08.290 +05:30 [INF] Route matched with {action = "GetEmployeeById", controller = "Employee"}. Executing controller action with signature DeskEntity.Model.Employee GetEmployeeById(Int32) on controller DeskAPI.Controllers.EmployeeController (DeskAPI).
+2023-04-04 14:52:08.291 +05:30 [INF] Entity Framework Core 5.0.0 initialized 'DeskDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2023-04-04 14:52:08.294 +05:30 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [e].[EmployeeID], [e].[EmployeeName], [e].[EmployeeNumber], [e].[Gender], [e].[Image], [e].[PhoneNumber], [e].[Role], [e].[SecurityQuestion], [l].[ID], [l].[Email], [l].[Password], [l].[Type]
+FROM [employees] AS [e]
+INNER JOIN [LoginTables] AS [l] ON [e].[EmployeeID] = [l].[ID]
+2023-04-04 14:52:08.295 +05:30 [INF] Executing ObjectResult, writing value of type 'DeskEntity.Model.Employee'.
+2023-04-04 14:52:08.297 +05:30 [INF] Executed action DeskAPI.Controllers.EmployeeController.GetEmployeeById (DeskAPI) in 6.8022ms
+2023-04-04 14:52:08.297 +05:30 [INF] Executed endpoint 'DeskAPI.Controllers.EmployeeController.GetEmployeeById (DeskAPI)'
+2023-04-04 14:52:08.297 +05:30 [INF] Request finished in 8.0162ms 200 application/json; charset=utf-8
+2023-04-04 14:52:10.313 +05:30 [INF] Request starting HTTP/1.1 GET https://localhost:44385/api/Employee/GetEmployeeById?employeeId=5  
+2023-04-04 14:52:10.313 +05:30 [INF] Executing endpoint 'DeskAPI.Controllers.EmployeeController.GetEmployeeById (DeskAPI)'
+2023-04-04 14:52:10.314 +05:30 [INF] Route matched with {action = "GetEmployeeById", controller = "Employee"}. Executing controller action with signature DeskEntity.Model.Employee GetEmployeeById(Int32) on controller DeskAPI.Controllers.EmployeeController (DeskAPI).
+2023-04-04 14:52:10.315 +05:30 [INF] Entity Framework Core 5.0.0 initialized 'DeskDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2023-04-04 14:52:10.316 +05:30 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [e].[EmployeeID], [e].[EmployeeName], [e].[EmployeeNumber], [e].[Gender], [e].[Image], [e].[PhoneNumber], [e].[Role], [e].[SecurityQuestion], [l].[ID], [l].[Email], [l].[Password], [l].[Type]
+FROM [employees] AS [e]
+INNER JOIN [LoginTables] AS [l] ON [e].[EmployeeID] = [l].[ID]
+2023-04-04 14:52:10.317 +05:30 [INF] Executing ObjectResult, writing value of type 'null'.
+2023-04-04 14:52:10.317 +05:30 [INF] Executed action DeskAPI.Controllers.EmployeeController.GetEmployeeById (DeskAPI) in 3.175ms
+2023-04-04 14:52:10.317 +05:30 [INF] Executed endpoint 'DeskAPI.Controllers.EmployeeController.GetEmployeeById (DeskAPI)'
+2023-04-04 14:52:10.317 +05:30 [INF] Request finished in 4.5333ms 204 
+2023-04-04 14:52:11.969 +05:30 [INF] Request starting HTTP/1.1 GET https://localhost:44385/api/Floor/GetFloor  
+2023-04-04 14:52:11.969 +05:30 [INF] Executing endpoint 'DeskAPI.Controllers.FloorController.GetFloor (DeskAPI)'
+2023-04-04 14:52:11.970 +05:30 [INF] Route matched with {action = "GetFloor", controller = "Floor"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[DeskEntity.Model.Floor] GetFloor() on controller DeskAPI.Controllers.FloorController (DeskAPI).
+2023-04-04 14:52:11.971 +05:30 [INF] Entity Framework Core 5.0.0 initialized 'DeskDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2023-04-04 14:52:11.973 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [f].[FloorId], [f].[FloorName]
+FROM [floors] AS [f]
+2023-04-04 14:52:11.974 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[DeskEntity.Model.Floor, DeskEntity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-04-04 14:52:11.974 +05:30 [INF] Executed action DeskAPI.Controllers.FloorController.GetFloor (DeskAPI) in 4.5309ms
+2023-04-04 14:52:11.975 +05:30 [INF] Executed endpoint 'DeskAPI.Controllers.FloorController.GetFloor (DeskAPI)'
+2023-04-04 14:52:11.975 +05:30 [INF] Request finished in 6.4186ms 200 application/json; charset=utf-8
+2023-04-04 14:52:14.750 +05:30 [INF] Request starting HTTP/1.1 GET https://localhost:44385/api/Floor/GetFloor  
+2023-04-04 14:52:14.751 +05:30 [INF] Executing endpoint 'DeskAPI.Controllers.FloorController.GetFloor (DeskAPI)'
+2023-04-04 14:52:14.751 +05:30 [INF] Route matched with {action = "GetFloor", controller = "Floor"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[DeskEntity.Model.Floor] GetFloor() on controller DeskAPI.Controllers.FloorController (DeskAPI).
+2023-04-04 14:52:14.753 +05:30 [INF] Entity Framework Core 5.0.0 initialized 'DeskDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2023-04-04 14:52:14.755 +05:30 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [f].[FloorId], [f].[FloorName]
+FROM [floors] AS [f]
+2023-04-04 14:52:14.755 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[DeskEntity.Model.Floor, DeskEntity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-04-04 14:52:14.756 +05:30 [INF] Executed action DeskAPI.Controllers.FloorController.GetFloor (DeskAPI) in 4.4646ms
+2023-04-04 14:52:14.756 +05:30 [INF] Executed endpoint 'DeskAPI.Controllers.FloorController.GetFloor (DeskAPI)'
+2023-04-04 14:52:14.756 +05:30 [INF] Request finished in 5.5445ms 200 application/json; charset=utf-8
+2023-04-04 15:27:18.176 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-04-04 15:27:18.206 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44385/swagger/index.html  
+2023-04-04 15:27:18.225 +05:30 [INF] Hosting environment: Development
+2023-04-04 15:27:18.226 +05:30 [INF] Content root path: C:\Users\shwetha.b\Desktop\tuesdesk\New-Deskify\Deskify_3.1\DeskAPI
+2023-04-04 15:27:18.416 +05:30 [INF] Request finished in 215.9229ms 200 text/html;charset=utf-8
+2023-04-04 15:27:18.419 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44385/_framework/aspnetcore-browser-refresh.js  
+2023-04-04 15:27:18.419 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44385/_vs/browserLink  
+2023-04-04 15:27:18.423 +05:30 [INF] Request finished in 3.9062ms 200 application/javascript; charset=utf-8
+2023-04-04 15:27:18.439 +05:30 [INF] Request finished in 20.0419ms 200 text/javascript; charset=UTF-8
+2023-04-04 15:27:18.786 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44385/swagger/v1/swagger.json  
+2023-04-04 15:27:18.932 +05:30 [INF] Request finished in 146.6489ms 200 application/json;charset=utf-8
